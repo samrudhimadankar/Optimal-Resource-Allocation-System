@@ -118,9 +118,5 @@ Efficiency is calculated as:
   - For resources: `Resource Name`, `Cost`, `Benefit`
 - Ensure `openpyxl` is installed for Excel file support
 
----
 
-### 👩‍💻 Author
-**Samrudhi**  
-Focused on optimization, algorithmic efficiency, and polished UI/UX for academic and practical applications.
 
